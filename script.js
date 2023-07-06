@@ -4,7 +4,7 @@ function generate(){
   const quotes = {
     "- Will Rogers": '“Don\’t let yesterday take up too much of today.”',
     "- Steve Jobs" : '“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven\'t found it yet, keep looking. Don\'t settle. As with all matters of the heart, you\'ll know when you find it.”',
-    "- Winston S. Churchill" : '"Success is not final; failure is not fatal: It is the courage to continue that counts."',
+    "- Winston S. Churchill" : '"Success is not final; failure is not fatal. It is the courage to continue that counts."',
     "- George Addair" : '"Everything you\'ve ever wanted is sitting on the other side of fear."',
     "- Diane von Furstenberg" : '"You carry the passport to your own happiness."',
     "- Octavia Butler" : '"First forget inspiration. Habit is more dependable. Habit will sustain you whether you\'re inspired or not. Habit will help you finish and polish your stories. Inspiration won\'t. Habit is persistence in practice."'
